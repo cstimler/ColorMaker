@@ -18,7 +18,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var redControl: UISwitch!
     @IBOutlet weak var greenControl: UISwitch!
     @IBOutlet weak var blueControl: UISwitch!
-
+   
+    
     // MARK: Life Cycle
     
     override func viewDidLoad() {
